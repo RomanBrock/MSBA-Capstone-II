@@ -1,4 +1,4 @@
-# MSBA Capstone II | Home Credit Default Risk
+# Home Credit Default Risk | MSBA Capstone II
 
 ### Summary
 ---
